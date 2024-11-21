@@ -3,14 +3,14 @@
 
 Este projeto simula o funcionamento de um carro com controle de passageiros, combustível e quilometragem. Ele oferece um conjunto de comandos para interagir com o carro, como embarcar, desembarcar, abastecer, e dirigir. O objetivo é gerenciar esses atributos e garantir que o carro só execute as ações possíveis dentro de seus limites.
 
-## Funcionalidades 
+## Funcionalidades 📝
 
 1. **Controle de Passageiros**: Você pode embarcar e desembarcar passageiros, respeitando o limite máximo de ocupantes.
 2. **Abastecimento de Combustível**: O tanque do carro pode ser abastecido, mas não pode ultrapassar o limite máximo de combustível.
 3. **Dirigir**: O carro pode ser dirigido, consumindo combustível e aumentando a quilometragem, mas só se houver passageiros e combustível suficientes.
 4. **Exibição de Estado**: O estado atual do carro pode ser visualizado, incluindo o número de passageiros, quantidade de combustível e quilômetros percorridos.
 
-## Comandos
+## Comandos 🤖
 
 ### `mostrar_informacoes(self)`👀 
 
