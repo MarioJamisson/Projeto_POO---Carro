@@ -24,7 +24,7 @@ carro1.mostrar_informacoes()
 carro1.mostrarPorcentagem()
 
 # Abastece o carro, mas não ultrapassa a capacidade do tanque
-carro1.abastecer(120)
+carro1.abastecer(250)
 
 # Dirige o carro por 30 km
 carro1.dirigir(30)
