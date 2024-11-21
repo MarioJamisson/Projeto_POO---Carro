@@ -108,7 +108,7 @@ Este projeto é organizado da seguinte forma:
    cd Projeto_POO---Carro
    ```
 
-2. **Instalar as dependências**:
+2. **Instalar as dependências (nao necessario)**:
 
    Instale as dependências usando `pip`:
 
